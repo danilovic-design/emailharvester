@@ -1,0 +1,3 @@
+/emails/**
+!/emails/.gitkeep
+/node_modules
